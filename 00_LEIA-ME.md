@@ -18,8 +18,8 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `[preencher]`
 - Professor ou orientador: `[preencher]`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Integrantes: `[Guilherme de Sousa]`
+- Data de início: `[23/09/2026]`
 
 
 
