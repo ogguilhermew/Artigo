@@ -22,7 +22,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
+- Tema amplo: `[Impacto social da tecnologia]`
 - Objeto estudado: `[preencher]`
 - Contexto ou aplicação: `[preencher]`
 - Aspecto que será analisado: `[preencher]`
