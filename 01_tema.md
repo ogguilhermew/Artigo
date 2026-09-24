@@ -26,7 +26,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 - Objeto estudado: `[Impacto da inteligência artificial no mercado de trabalho .]`
 - Contexto ou aplicação: `[[Uso de tecnologias no cotidiano na sociedade contemporânea]`
 - Aspecto que será analisado: `[[Mudanças na comunicação, na educação, no trabalho e nas relações socias]`
-- O que ficará fora do estudo: `[spectos técnicos relacionados ao desenvolvimento e funcionamento de sistemas de inteligência artificial]`
+- O que ficará fora do estudo: `[Aspectos técnicos relacionados ao desenvolvimento e funcionamento de sistemas de inteligência artificial]`
 
 ### Justificativa
 
