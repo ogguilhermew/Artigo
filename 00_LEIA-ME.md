@@ -15,10 +15,10 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
+- Curso e disciplina: `[Análise e Desenvolvimento de Sistemas (ADS)- Design Profissional]`
+- Professor ou orientador: `[Isabella Luiza de Souza]`
 - Grupo: `[preencher]`
-- Integrantes: `[Guilherme de Sousa]`
+- Integrantes: `[Guilherme de Sousa Ferreira]`
 - Data de início: `[23/09/2026]`
 
 
