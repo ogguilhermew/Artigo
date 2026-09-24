@@ -23,14 +23,14 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `[Impacto social da tecnologia]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Objeto estudado: `[Impacto da inteligência artificial no mercado de trabalho .]`
+- Contexto ou aplicação: `[[Uso de tecnologias no cotidiano na sociedade contemporânea]`
+- Aspecto que será analisado: `[[Mudanças na comunicação, na educação, no trabalho e nas relações socias]`
+- O que ficará fora do estudo: `[spectos técnicos relacionados ao desenvolvimento e funcionamento de sistemas de inteligência artificial]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[A inteligência artificial .]`
 
 ### Viabilidade
 
@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Guilherme de Sousa Ferreira]` | `[preencher]` |
