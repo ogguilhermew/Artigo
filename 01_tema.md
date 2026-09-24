@@ -30,7 +30,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[A inteligência artificial .]`
+`[A inteligência artificial vem sendo incorporada a diferentes atividades profissionais e está modificando a forma como determinadas tarefas são realizadas. Estudos científicos recentes analisam seus impactos sobre empregos, atividades profissionais e habilidades exigidas dos trabalhadores. O tema é relevante porque essas transformações podem afetar diferentes setores da sociedade e o futuro das relações de trabalho.]`
 
 ### Viabilidade
 
