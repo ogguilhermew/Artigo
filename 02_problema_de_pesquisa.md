@@ -6,19 +6,19 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[Impacto da inteligência artificial no mercado de trabalho]`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[Como a inteligencia artificial tem impactados o mercado de trabalho, especialmente em relações as mudanças nas funcões profissionais, na crianção e subtituição de empregos?]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? `[Como a inteligência artificial tem impactado o mercado de trabalho, especialmente em relação às mudanças nas funções profissionais, na criação e substituição de empregos?]`
+- Qual é o objeto da pergunta? `[Como a inteligência artificial tem impactado o mercado de trabalho, especialmente em relação às mudanças nas funções profissionais, na criação e substituição de empregos?]`
+- Qual é o contexto ou recorte? `[As transformações provocadas pela adoção de tecnologias de inteligência artificial no mercado de trabalho contemporâneo, com foco nas funções profissionais, nas novas oportunidades e na qualificação dos trabalhadores.]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim. A literatura científica apresenta estudos sobre automação, inteligência artificial, transformação das ocupações, criação e substituição de empregos e mudanças nas competências exigidas dos trabalhadores]`
+- Por que essa pergunta é relevante? `[A expansão da inteligência artificial vem modificando atividades profissionais e exigindo novas competências dos trabalhadores. Compreender essas transformações permite analisar, a partir da literatura científica, os principais efeitos da tecnologia sobre o mercado de trabalho.]`
 
 ## Produto da etapa
 
@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Guilherme de Sousa Ferreira]` | `[Definição do problema e elaboração da pergunta de pesquisa]` |
