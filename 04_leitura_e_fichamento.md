@@ -127,57 +127,58 @@ Página: `[1]`
 
 * Referência completa: `[PIZZINELLI, Carlo; PANTON, Augustus; TAVARES, Marina Mendes; CAZZANIGA, Mauro; LI, Longji. Labor Market Exposure to AI: Cross-country Differences and Distributional Implications. IMF Working Paper n.º 2023/216. Washington, DC: International Monetary Fund, 2023.]`
 * DOI ou URL: `[https://doi.org/10.5089/9798400254802.001]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Base de origem: `[Google Acadêmico e site oficial do Fundo Monetário Internacional (FMI).]`
+* Leitor responsável: `[GUILHERME DE SOUSA FERREIRA]`
+* Data da leitura: `[14/10/2026]`
   
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`[Como a exposição dos trabalhadores à inteligência artificial varia entre países e grupos sociais, e quais são os possíveis efeitos dessa tecnologia sobre os empregos e as oportunidades profissionais?]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Analisar a exposição dos trabalhadores à inteligência artificial em economias desenvolvidas e emergentes, considerando o potencial de substituição e de complementação do trabalho humano]`
 
 ### Método utilizado
 
-`[preencher]`
+`[Os pesquisadores desenvolveram uma análise da exposição ocupacional à inteligência artificial, diferenciando atividades que podem ser substituídas pela tecnologia daquelas em que a IA pode complementar o trabalho humano. Para isso, utilizaram dados de trabalhadores e indicadores relacionados às ocupações.]`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[O estudo analisou dados de trabalhadores de seis países: Estados Unidos, Reino Unido, Brasil, Colômbia, Índia e África do Sul. A pesquisa comparou diferenças entre economias desenvolvidas e emergentes e considerou características como escolaridade, gênero e rendimentos.]`
 
 ### Principais resultados
 
-`[preencher]`
+`[Os resultados indicam que as economias desenvolvidas apresentam maior exposição geral à inteligência artificial, principalmente pela maior participação de ocupações profissionais e gerenciais. Quando se considera a possibilidade de complementação do trabalho humano, as diferenças entre países diminuem. O estudo também aponta maior exposição ocupacional entre mulheres e trabalhadores com maior escolaridade.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[ A exposição à inteligência artificial não significa que haverá necessariamente substituição ou demissão de trabalhadores. Os resultados representam estimativas de possíveis impactos e dependem da maneira como a tecnologia será implementada nas empresas e nas diferentes economias.]`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[O estudo contribui para compreender como a inteligência artificial pode afetar o mercado de trabalho brasileiro e como seus efeitos variam entre países e grupos profissionais. Também ajuda a discutir desigualdade, qualificação profissional e a necessidade de preparar os trabalhadores para as transformações tecnológicas.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[Uma das principais forças do estudo é a comparação entre países, incluindo o Brasil, e a distinção entre substituição e complementação do trabalho humano. Entretanto, as estimativas de exposição não permitem prever com certeza quantos empregos serão eliminados ou criados. Por isso, os resultados devem ser interpretados considerando as condições econômicas e sociais de cada país.]`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `[“workers in highly exposed occupations with lower potential for complementarity, and thus a higher risk of substitution”
+> Tradução: trabalhadores em ocupações altamente expostas, com menor potencial de complementaridade e, consequentemente, maior risco de substituição.]`
 
-Página: `[número]`
+Página: `[7]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
 
 
