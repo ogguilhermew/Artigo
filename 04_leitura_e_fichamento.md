@@ -14,7 +14,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Leitor responsável: `[preencher]`
 * Data da leitura: `[dd/mm/aaaa]`
 
-* ## Fichamento
+
+## Fichamento
 
 ### Problema investigado
 
@@ -61,6 +62,8 @@ Página: `[número]`
 * [ ] As limitações foram registradas.
 * [ ] A conexão com o tema foi explicada.
 * [ ] Toda citação literal contém página.
+
+
 
 ## Identificação do artigo
 
@@ -118,6 +121,8 @@ Página: `[número]`
 * [ ] A conexão com o tema foi explicada.
 * [ ] Toda citação literal contém página.
 
+      
+
 ## Identificação do artigo
 
 * Referência completa: `[preencher]`
@@ -125,6 +130,7 @@ Página: `[número]`
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
 * Data da leitura: `[dd/mm/aaaa]`
+  
 
 ## Fichamento
 
