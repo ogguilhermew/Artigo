@@ -6,9 +6,9 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `[Automação e transformação das ocupações: efeitos da inteligência artificial sobre tarefas, profissões e postos de trabalho.]`
+2. `[Qualificação profissional e desigualdades: diferenças de exposição à tecnologia entre trabalhadores, ocupações e países.]`
+3. `[Substituição e complementação do trabalho humano: riscos de substituição de trabalhadores e possibilidades de colaboração entre pessoas e sistemas de inteligência artificial.]`
 
 ## Matriz de síntese
 
