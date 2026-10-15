@@ -8,7 +8,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 1. `[Automação e transformação das ocupações: efeitos da inteligência artificial sobre tarefas, profissões e postos de trabalho.]`
 2. `[Qualificação profissional e desigualdades: diferenças de exposição à tecnologia entre trabalhadores, ocupações e países.]`
-3. `[Substituição e complementação do trabalho humano: riscos de substituição de trabalhadores e possibilidades de colaboração entre pessoas e sistemas de inteligência artificial.]`
+
 
 ## Matriz de síntese
 
@@ -20,26 +20,29 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `[A inteligência artificial pode transformar as ocupações profissionais ao automatizar determinadas tarefas e modificar a maneira como o trabalho é realizado.]`
+* Evidências que serão usadas: `[A revisão sistemática de Acypreste e Paraná (2022), a análise dos possíveis efeitos da IA generativa de Gmyrek et al. (2023) e o estudo sobre exposição ocupacional à IA de Pizzinelli et al. (2023).]`
+* Comparação entre estudos: `[Os três trabalhos abordam a relação entre inteligência artificial e emprego por perspectivas diferentes. Acypreste e Paraná sintetizam a literatura existente, Gmyrek et al. investigam os possíveis efeitos da IA generativa, e Pizzinelli et al. analisam diferenças de exposição à tecnologia entre ocupações e países.]`
+* Ligação com o problema: `[Esse eixo contribui para compreender como a expansão da inteligência artificial pode modificar o mercado de trabalho e transformar as atividades profissionais.]`
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal `[Os impactos da inteligência artificial podem variar entre trabalhadores e ocupações, criando diferentes necessidades de qualificação e possíveis desigualdades.]`
+* Evidências que serão usadas: `[s discussões sobre demanda por trabalho e qualificações profissionais de Acypreste e Paraná (2022), a análise da qualidade dos empregos de Gmyrek et al. (2023) e as diferenças de exposição ocupacional examinadas por Pizzinelli et al. (2023).]`
+* Comparação entre estudos: `[Os artigos abordam o tema por perspectivas complementares, considerando tendências da literatura, possíveis mudanças na qualidade dos empregos e diferenças de exposição à IA entre ocupações e países.]`
+* Ligação com o problema: `[Esse eixo permite discutir a importância da qualificação profissional e de medidas de adaptação para reduzir dificuldades e desigualdades relacionadas à adoção da inteligência artificial.]`
+
+
+ 
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`[Os três estudos mostram que os efeitos da inteligência artificial no mercado de trabalho são complexos e não podem ser reduzidos à simples eliminação de empregos. A tecnologia pode automatizar tarefas, complementar atividades humanas e modificar as qualificações exigidas dos trabalhadores. Entretanto, os impactos variam conforme as ocupações, os contextos econômicos e o potencial de complementaridade com a tecnologia. As diferenças entre as abordagens dos estudos demonstram a importância de analisar tanto os possíveis riscos de substituição quanto as oportunidades de transformação do trabalho. Ainda são necessárias investigações sobre os efeitos concretos da adoção da IA em diferentes setores, países e grupos profissionais, especialmente para compreender como essas mudanças podem afetar as desigualdades no mercado de trabalho.]`
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 
